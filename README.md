@@ -7,6 +7,8 @@ I am a B.Sc. Computer Science Graduate and a passionate **Data Analyst** in the 
 
 Currently enhancing my knowledge through practical projects and real-world scenarios. I enjoy uncovering insights and visualizing data to drive smarter decisions.
 
+If you are troubling with the messy data and want help to turn that data into better decison making visuals then you better call rajusura :)
+
 ---
 
 ### 🚀 Languages & Tools:
